@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Summertime Sadness",
+  "base_artist": "Lana Del Rey",
+  "createdAt": "2026-02-27T09:39:12.247996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Summertime_Sadness_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_Summertime_Sadness_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Carla dal Forno",
+      "has_synced": false,
+      "path": "select/03_Summertime_Sadness_Carla_dal_Forno.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/04_Summertime_Sadness_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summertime Sadness - Cedric Gervais Remix",
+      "artist": "Lana Del Rey & Cedric Gervais",
+      "has_synced": true,
+      "path": "select/05_Summertime_Sadness_-_Cedric_Gervais_Remix_Lana_Del_Rey_&_Cedric_Gervais.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summertime Sadness (Cedric Gervais remix)",
+      "artist": "Lana Del Rey vs. Cedric Gervais",
+      "has_synced": true,
+      "path": "select/06_Summertime_Sadness_(Cedric_Gervais_remix)_Lana_Del_Rey_vs._Cedric_Gervais.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Y.V.E. 48",
+      "has_synced": true,
+      "path": "select/07_Summertime_Sadness_Y.V.E._48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Summertime_Sadness_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summertime Sadness (Cedric Gervais Remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/09_Summertime_Sadness_(Cedric_Gervais_Remix)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey & Cédric Gervais",
+      "has_synced": true,
+      "path": "select/10_Summertime_Sadness_Lana_Del_Rey_&_Cédric_Gervais.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_Summertime_Sadness_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summertime Sadness  (Cedric Gervais Remix)",
+      "artist": "Del Rey, Lana",
+      "has_synced": true,
+      "path": "select/12_Summertime_Sadness_(Cedric_Gervais_Remix)_Del_Rey,_Lana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey & Cedric Gervais",
+      "has_synced": true,
+      "path": "select/13_Summertime_Sadness_Lana_Del_Rey_&_Cedric_Gervais.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summertime Sadness",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/pl_01_Summertime_Sadness_Lana_Del_Rey.txt"
+    }
+  ]
+}
